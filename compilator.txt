@@ -1,0 +1,64 @@
+#include <errno.h>
+#include <unistd.h>
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <signal.h>
+#include <pthread.h>
+
+int a;
+int b
+const int alo;
+char x;
+int aro(int);
+int f(int, int);
+struct lfac{
+int x1;
+struct a b;
+int x2;	
+};
+int main()
+{
+	strcpy(a, b);
+	strcmp(a,b);
+	a := b;
+	if ((a < 2)&&(a!=2)||(a<5)) 
+	{
+		a := 2;
+	}
+	else
+	{
+	if(a==2)
+	{
+			a:=a+2;
+	}
+	}
+	for(a:=0;a<n;a:=a+1;)
+	{
+	 int z;
+	}
+	while(i<5)
+	{
+	i:=i+1;
+	}
+	lfac.b:= a;
+	printf(a);
+	f(a , b);
+	f(b, a);
+	aro(a);
+	b := 2;
+	int d;
+	d := 3;
+	b := maximum(a, b);
+	printf(b);
+	print(a*b);
+	x := 'a';
+	print( maximum(1, 2) );
+	return a;
+}
+int a( int,char )
+{
+	int z;
+	z:=1;
+	return 1;
+}
